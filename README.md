@@ -1,7 +1,7 @@
 # hashicat-azure
-Hashicat: A terraform built application for use in Hashicorp workshops.
+Hashicat: A terraform-built application for use in Hashicorp workshops.
 
-Includes the exmaple website. 😻
+Includes the example website. 😻
 
 
-# hey this is random comment! 
+# hey, this is a random comment! 
